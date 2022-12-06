@@ -1,1 +1,1 @@
-print "print output"
+print "printscreen"
